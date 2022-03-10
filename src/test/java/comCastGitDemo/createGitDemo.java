@@ -10,6 +10,7 @@ public class createGitDemo {
 		System.out.println("commit first");
 		
 		System.out.println("commit second");
+		
 	}
 
 }
