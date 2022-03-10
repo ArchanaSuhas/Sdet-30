@@ -8,6 +8,8 @@ public class createGitDemo {
 	public void gitDemo()
 	{
 		System.out.println("commit first");
+		
+		System.out.println("commit second");
 	}
 
 }
