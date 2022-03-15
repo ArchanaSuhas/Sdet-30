@@ -16,4 +16,10 @@ public class CreateOrgTest
 	{
 		System.out.println("Org Created");
 	}
+	
+	@Test
+	public void n()
+	{
+		
+	}
 }
