@@ -22,4 +22,10 @@ public class CreateOrgTest
 	{
 		
 	}
+	@Test
+	public void ne()
+	{
+		
+	}
 }
+
